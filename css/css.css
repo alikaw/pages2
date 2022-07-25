@@ -1,0 +1,46 @@
+.clear{
+	clear:both;
+}
+.b1{
+	text-align:center;
+	padding:10px;
+	max-width:800px;
+	margin:0 auto;
+}
+.b1-f{
+	width:75px;
+}
+.b1-f-w{
+	color:#888;
+	margin:10px 0 25px;
+}
+.b1-bn{
+	display:block;
+	background:#d17589;
+	color:#fff;
+	padding:15px 10px;
+	margin:0 0 15px;
+	text-decoration:none;
+}
+.b1-bn-f{
+	width:25px;
+	vertical-align: middle;
+}
+.b1-bn-f path{
+}
+.b1-bn-c{
+	float:left;
+	width:50%;
+	box-sizing:border-box;
+}
+.b1-bn-c_1{
+	padding:0 5px 0 0;
+}
+.b1-bn-c_2{
+	padding:0 0 0 5px;
+}
+.b1-w{
+	margin:20px 0 0;
+	color:#555;
+	font-size:12px;
+}
